@@ -2,6 +2,8 @@
 
 Tasks don’t always have binary states, they’re not necessarily just `To-do` or `Done`, maybe you’re working on it right now or it’s a pending review. Modern task managers are just digital to-do lists, but your modern life is not so binary. That’s where Tasks can give your productivity a boost! 
 
+We are continuously filling the parts of the app that are not compliant with accessibilty settings such as voice over and voice control.
+
 # Latest Update 
 `1.1.4`
 
